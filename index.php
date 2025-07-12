@@ -12,6 +12,7 @@
         <form action="#" method="POST">
             <input type="text" name="email">
             <input type="password" name="mdp">
+            <input type="submit" value="Valider">
         </form>
     </section>
 </body>
