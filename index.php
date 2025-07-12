@@ -9,8 +9,10 @@
 <body>
     <section>
         <h1>Connexion</h1>
-        <form action="#" method="POST">
+        <form action="config.php" method="POST">
+            <label>Adresse Mail</label>
             <input type="text" name="email">
+            <label>Mots de Passe</label>
             <input type="password" name="mdp">
             <input type="submit" value="Valider">
         </form>
